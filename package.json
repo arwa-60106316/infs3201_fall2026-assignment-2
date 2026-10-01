@@ -1,0 +1,14 @@
+{
+  "name": "a2---60106316",
+  "version": "1.0.0",
+  "description": "Laundry Order Management System - Three-Tier Refactoring",
+  "main": "presentation.js",
+  "type": "module",
+  "scripts": {
+    "start": "node presentation.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "prompt-sync": "^4.2.0"
+  }
+}
